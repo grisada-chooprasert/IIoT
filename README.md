@@ -1,6 +1,6 @@
 # IIoT
 
-[T] Temperature in celcius
+[T] Temperature in celcius/n
 [t] Time in minus
 [Q] Flow rate in l/m
 [V] Voltage in volt
